@@ -1,10 +1,10 @@
-# PRD: Hub Agent and Merged Build (Member 1, Lead)
+# PRD: Hub Agent and Merged Build (Member 1)
 
 | | |
 |---|---|
 | **Project** | C389 CA2, Project 2: Personal Productivity Agent |
 | **Scenario** | S5 Notes and Reading Assistant (pattern: a tool, with retrieval) |
-| **Owner** | Member 1 (lead) |
+| **Owner** | Member 1 |
 | **Repo** | https://github.com/SoeSanWaing/C389_CA2_Team5 |
 | **Status** | Draft v0.1, 17 Nov 2026 |
 | **Hard deadline** | Merged on the nominated account **before Lesson 14**; final submission 23:59 on presentation day (Lesson 17 or 18) |
