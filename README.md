@@ -21,4 +21,5 @@ Scenario **S5: Notes and Reading Assistant**, built beside the Finance Tracker b
 
 ## Docs
 
+- [Project PRD (whole build)](docs/PRD-Project.md)
 - [Hub agent and merge PRD (Member 1)](docs/PRD-Member1-Hub-Agent.md)

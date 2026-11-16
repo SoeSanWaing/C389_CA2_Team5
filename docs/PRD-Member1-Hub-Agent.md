@@ -7,6 +7,7 @@
 | **Owner** | Member 1 |
 | **Repo** | https://github.com/SoeSanWaing/C389_CA2_Team5 |
 | **Status** | Draft v0.1, 17 Nov 2026 |
+| **Parent PRD** | [PRD-Project.md](PRD-Project.md) |
 | **Hard deadline** | Merged on the nominated account **before Lesson 14**; final submission 23:59 on presentation day (Lesson 17 or 18) |
 
 ---
