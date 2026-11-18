@@ -1,0 +1,12 @@
+# Secrets: never commit keys, tokens or Google credentials
+.env
+.env.*
+*.credentials.json
+credentials*.json
+*.pem
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
